@@ -1,55 +1,53 @@
 # 👋 Hi, I'm Kamoho Nkutu
 
-**🎓 Student | 💻 Full Stack Developer | 🎶 Music Enthusiast**
+**Full Stack Developer | Rosebank College | Based in Pretoria, SA**
+
+I'm a software development student and builder — I love turning ideas into real products. From pet health platforms to Android apps, I build with performance and users in mind.
 
 ---
 
-### 🧑‍💻 About Me
+### 🚀 What I Build With
 
-I'm **Kamoho**, a passionate software development student at **Rosebank College**.  
-Curious by nature and driven by creativity, I’m always learning, building, and collaborating — whether it's in code or in music.
-
----
-
-### 💻 Tech Stack
-
-- 🔹 **JavaScript** – My strongest tool for the web  
-- 🔹 **Kotlin** – Building Android apps with elegance  
-- 🔹 HTML, CSS, Java, Firebase  
-- 🔹 React (exploring), Git, GitHub
+**Frontend:** JavaScript (ES6+), React, HTML5, CSS3, Tailwind
+**Mobile:** Kotlin, Android Studio
+**Backend & Tools:** Java, Firebase (Auth, Firestore), REST APIs, Git/GitHub
 
 ---
 
-### 🚀 Highlight Project
+### 🔥 Featured Project
 
-#### 🐾 [PDSA Pet Health Care](#)
-A full-featured system created to assist with **pet healthcare management** — from appointment bookings to treatment tracking.  
-📌 _Built with HTML, CSS, JS, Firebase, and love._
+#### 🐾 PDSA Pet Health Care System
+A complete pet healthcare management platform — appointment bookings, treatment tracking, and owner dashboards.
+- **Stack:** HTML, CSS, JavaScript, Firebase
+- **Highlights:** Real-time data sync, responsive UI, role-based access
+- **Link:** [Live Demo / Repo](#) -> *replace with your actual link*
 
----
-
-### 🎵 Fun Fact
-
-When I’m not developing software, I’m developing melodies.  
-Music and code are just different expressions of the same creative fire. 🔥
+> Working on: Adding online payments and push notifications for appointments.
 
 ---
 
-### 🌱 Currently Learning
+### 📈 Currently Leveling Up
 
-- React & Firebase Advanced Usage  
-- REST APIs & Full Stack Architecture  
-- UI/UX Principles & Accessibility
+- Advanced React (Hooks, State Management)
+- Full Stack Architecture & RESTful API Design
+- UI/UX, Performance Optimization & Accessibility (Lighthouse 90+)
 
 ---
 
-### 🤝 Let's Connect
+### 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kamoho-blue?logo=linkedin)](https://www.linkedin.com/in/kamoho-nkutu)  
-[![GitHub](https://img.shields.io/badge/GitHub-kamoho--nkutu-181717?logo=github)](https://github.com/your-username)  
-[![Instagram](https://img.shields.io/badge/Instagram-@kamoho__nkutu-833AB4?logo=instagram)](https://www.instagram.com/kamoho_nkutu)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamoho-nkutu&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=kamoho-nkutu&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Let's Connect
+
+**Portfolio:** your-portfolio-link.com  
+**LinkedIn:** [linkedin.com/in/kamoho-nkutu](https://www.linkedin.com/in/kamoho-nkutu)  
+**GitHub:** [@kamoho-nkutu](https://github.com/kamoho-nkutu)  
+**Email:** kamoho.nkutu@email.com
 
 ---
 
 > 💡 “Never stop building, never stop learning.”
-
