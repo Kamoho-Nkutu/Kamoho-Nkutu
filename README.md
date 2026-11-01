@@ -8,7 +8,7 @@ Student, builder, and music enthusiast. I build practical products — from heal
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kamoho%20Nkutu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamoho-nkutu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kamoho%20Nkutu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamoho-nkutu-672843290)
 [![GitHub](https://img.shields.io/badge/GitHub-Kamoho--Nkutu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kamoho-Nkutu)
 [![Instagram](https://img.shields.io/badge/Instagram-@kamoho__nkutu-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kamoho_nkutu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel&logoColor=white)](https://kamoho-nkutu.github.io)
@@ -36,7 +36,6 @@ My flagship project — a full-featured system for PDSA to manage pet healthcare
 AI-powered app that identifies and classifies images — my most advanced build.
 - Explores computer vision & ML integration
 - **Stack:** Python / Kotlin + ML Model
-- *Note: Repo name has typo, rename to `ImageRecognition` in Settings for professionalism*
 
 #### ✅ [To-Do App - Kotlin](https://github.com/Kamoho-Nkutu/To-Do-App-kotlin-)
 Native Android productivity app built with Kotlin.
@@ -79,4 +78,4 @@ When I'm not developing software, I'm developing melodies. Music and code are th
 
 > 💡 “Never stop building, never stop learning.” — Kamoho Nkutu
 
-**📫 Open to internships, freelance gigs & collaborations — DM me on [LinkedIn](https://www.linkedin.com/in/kamoho-nkutu)**
+**📫 Open to internships, freelance gigs & collaborations — DM me on [LinkedIn](https://www.linkedin.com/in/kamoho-nkutu-672843290)**
