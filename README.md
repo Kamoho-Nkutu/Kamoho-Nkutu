@@ -1,53 +1,40 @@
 # 👋 Hi, I'm Kamoho Nkutu
 
-**Full Stack Developer | Rosebank College | Based in Pretoria, SA**
+**Full Stack Developer | Mobile + AI + Web | Rosebank College | Pretoria, SA**
 
-I'm a software development student and builder — I love turning ideas into real products. From pet health platforms to Android apps, I build with performance and users in mind.
+Student builder — I love shipping products, from pet health systems to AI and games.
 
----
+### 💻 Tech Stack
 
-### 🚀 What I Build With
+**Core:** JavaScript, Kotlin, Java, Python
+**Web:** HTML/CSS, React, Firebase, REST APIs
+**Mobile:** Android Studio, Kotlin, Jetpack
+**AI/Experimental:** Image Recognition, Game Logic
 
-**Frontend:** JavaScript (ES6+), React, HTML5, CSS3, Tailwind
-**Mobile:** Kotlin, Android Studio
-**Backend & Tools:** Java, Firebase (Auth, Firestore), REST APIs, Git/GitHub
+### 🚀 Featured Projects (Pin these 4)
 
----
+#### 🐾 [PDSA Pet Health Care System](https://github.com/Kamoho-Nkutu/PDSA-website)
+My flagship — NPO platform for appointments, pet profiles & treatment tracking.
+**Stack:** JS, Firebase | **Type:** Full-Stack Web
 
-### 🔥 Featured Project
+#### 🤖 [Image Recognition](https://github.com/Kamoho-Nkutu/ImageRecogntion)
+AI project that classifies images — my most advanced tech.
+**Stack:** Python/Kotlin + ML Model | **Type:** AI
 
-#### 🐾 PDSA Pet Health Care System
-A complete pet healthcare management platform — appointment bookings, treatment tracking, and owner dashboards.
-- **Stack:** HTML, CSS, JavaScript, Firebase
-- **Highlights:** Real-time data sync, responsive UI, role-based access
-- **Link:** [Live Demo / Repo](#) -> *replace with your actual link*
+#### ✅ [To-Do App Kotlin](https://github.com/Kamoho-Nkutu/To-Do-App-kotlin-)
+Native Android productivity app — clean MVVM architecture.
+**Stack:** Kotlin | **Type:** Mobile
 
-> Working on: Adding online payments and push notifications for appointments.
+#### 🎰 [Slot Game](https://github.com/Kamoho-Nkutu/Slot-Game)
+Game dev project — random logic, animations, win/lose state management.
+**Stack:** JS/Kotlin | **Type:** Game Dev — shows creative coding
 
----
+### 📁 Other Work
 
-### 📈 Currently Leveling Up
+#### 💰 [Budget App](https://github.com/Kamoho-Nkutu/Budget-App) — Finance tracker
+#### 🔢 [random-number](https://github.com/Kamoho-Nkutu/random-number) — JS fundamentals
 
-- Advanced React (Hooks, State Management)
-- Full Stack Architecture & RESTful API Design
-- UI/UX, Performance Optimization & Accessibility (Lighthouse 90+)
-
----
-
-### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamoho-nkutu&layout=compact&theme=tokyonight)
-![Stats](https://github-readme-stats.vercel.app/api?username=kamoho-nkutu&show_icons=true&theme=tokyonight)
-
----
-
-### 📫 Let's Connect
-
-**Portfolio:** your-portfolio-link.com  
-**LinkedIn:** [linkedin.com/in/kamoho-nkutu](https://www.linkedin.com/in/kamoho-nkutu)  
-**GitHub:** [@kamoho-nkutu](https://github.com/kamoho-nkutu)  
-**Email:** kamoho.nkutu@email.com
-
----
-
-> 💡 “Never stop building, never stop learning.”
+### 🌱 Currently Learning
+- React + Firebase Performance & Security Rules
+- Integrating AI models into Android apps
+- Full Stack Architecture & Core Web Vitals
